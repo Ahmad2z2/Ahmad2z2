@@ -36,7 +36,7 @@
   <a href="https://discord.gg/yGUU59WjuM" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://x.com/0jx69" target="_blank">
+  <a href="https://x.com/Ahmad2z2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter/X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ojxiii.ojxiii&right_color=blueviolet"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Ahmad2z2.Ahmad2z2&right_color=blueviolet"  />
 
 ###
